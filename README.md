@@ -27,10 +27,10 @@ We implement **Decision Trees** and **Random Forests**, visualize results, analy
 ---
 
 ## 📊 Results
-- **Decision Tree Accuracy**: ~72%  
-- **Decision Tree (max_depth=4)**: ~78%  
-- **Random Forest Accuracy**: ~83%  
-- **Cross-Validation Mean Accuracy**: ~82%  
+- **Decision Tree Accuracy**: ~98%  
+- **Decision Tree (max_depth=4)**: ~80%  
+- **Random Forest Accuracy**: ~98.5%  
+- **Cross-Validation Mean Accuracy**: ~99%  
 
 Random Forest outperformed a single Decision Tree due to **bagging** and **reduced overfitting**.
 
